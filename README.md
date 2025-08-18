@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Java & Web Dev Enthusiast</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hackerhari20xx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hariprasad20xx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 🔭 I’m currently focused on landing my **first Software Developer role**
@@ -20,9 +20,9 @@
 
 ### 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=hackerhari20xx&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=hariprasad20xx&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hackerhari20xx&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hariprasad20xx&theme=vue-dark&hide_border=true)<br/>
 
 
 ### 🛠️ Languages & Tools
