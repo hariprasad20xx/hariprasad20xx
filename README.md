@@ -13,8 +13,6 @@
   
 - 🛠️ Actively working on solving problems and building strong CS fundamentals
   
-- 🚀 Goal for 2025: **Launch my career as a Software Engineer and grow as a developer**
-  
 - 💡 Life motto: *“To be the best version of myself.”*
 
 
