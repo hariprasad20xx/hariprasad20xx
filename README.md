@@ -13,7 +13,7 @@
   
 - 🛠️ Actively working on solving problems and building strong CS fundamentals
   
-- 💡 Life motto: *“To be the best version of myself.”*
+- 💡 Life motto: *“To get better than yesterday.”*
 
 
 ### 📈 GitHub Stats
