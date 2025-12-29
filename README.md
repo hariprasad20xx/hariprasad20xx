@@ -9,7 +9,7 @@
   
 - 🌱 I’m learning **Spring Boot**, improving my backend development skills
   
-- 💻 I have hands-on experience in **Java, Web Development, and Databases**
+- 💻 I have hands-on experience in **Java, Networking, and Databases**
   
 - 🛠️ Actively working on solving problems and building strong CS fundamentals
   
