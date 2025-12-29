@@ -41,7 +41,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hari-prasad-1b925a196)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hariprasad-dev)  
 [![Email](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail&logoColor=red)](mailto:hariprasadjnv963@gmail.com)
 
 
