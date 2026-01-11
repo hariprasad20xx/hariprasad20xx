@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariprasad</h1>
-<h3 align="center">Aspiring Software Developer | Java & Web Dev Enthusiast</h3>
+<h3 align="center">Software Developer | Java & Backend Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hariprasad20xx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
