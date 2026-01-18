@@ -9,7 +9,7 @@
   
 - 🌱 I’m learning **Spring Boot** and **AWS Cloud**, improving my backend development skills and cloud deployment
   
-- 💻 I have hands-on experience in **Java, Networking, and Databases**
+- 💻 I have hands-on experience in **Java, Computer Networks, and Databases**
   
 - 🛠️ Actively working on solving problems and building strong CS fundamentals
   
