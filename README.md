@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently focused on landing my **first Software Developer role**
   
-- 🌱 I’m learning **Spring Boot** and **AWS Cloud**, improving my backend development skills and cloud deployment
+- 🌱 I’m learning **Spring Boot** and **AWS Cloud**, improving my backend development and cloud skills
   
 - 💻 I have hands-on experience in **Java, Computer Networks, and Databases**
   
