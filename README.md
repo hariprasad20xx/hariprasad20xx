@@ -5,16 +5,29 @@
   <img src="https://komarev.com/ghpvc/?username=hariprasad20xx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently focused on landing my **first Software Developer role**
-  
-- 🌱 I’m learning **Spring Boot** and **AWS Cloud**, improving my backend development and cloud skills
-  
-- 💻 I have hands-on experience in **Java, Computer Networks, and Databases**
-  
-- 🛠️ Actively working on solving problems and building strong CS fundamentals
-  
-- 💡 Life motto: *“To get better than yesterday.”*
+---
 
+## 🚀 About Me
+
+* 🎯 Seeking **Backend Developer / Software Engineer roles**
+* 🔭 Currently focused on building **real-world backend applications**
+* 🌱 Mastering:
+
+  * **Spring Boot** (REST APIs, Security, JPA)
+  * **AWS Cloud** (deployment & architecting)
+* 💻 Strong foundation in:
+
+  * **Java, Data Structures & Algorithms**
+  * **Computer Networks, Databases**
+* ⚡ Currently:
+
+  * Solving DSA problems daily
+  * Building scalable backend projects
+  * Preparing for SDE interviews
+
+> 💡 *“To get better than yesterday.”*
+
+---
 
 ### 📈 GitHub Stats
 
