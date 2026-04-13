@@ -21,7 +21,7 @@
   * **Computer Networks, Databases**
 * ⚡ Currently:
 
-  * Solving DSA problems daily
+  * Solving DSA problems
   * Building scalable backend projects
   * Preparing for SDE interviews
 
