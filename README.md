@@ -29,6 +29,32 @@
 
 ---
 
+## 🚀 Featured Projects
+
+🔹 **Finance Dashboard API**
+
+* Built using **Spring Boot**
+* Features: CRUD operations, filtering, pagination
+* Clean layered architecture (Controller → Service → Repository)
+* RESTful API design following best practices
+* 🔗 GitHub: [Finance Dashboard](https://github.com/hariprasad20xx/finance-dashboard)
+
+
+🔹 **Task Tracker Application**
+
+* Backend application to manage tasks with status and priority tracking
+* Designed and implemented scalable CRUD APIs
+* Designed scalable APIs and structured project architecture
+* 🔗 GitHub: [Task Tracker App](https://github.com/hariprasad20xx/task-tracker-app)
+
+
+🔹 **Library Management System**
+
+* Built using **Core Java & OOP principles**
+* Demonstrates modular design and clean code practices
+* Covers real-world use cases like issuing and returning books
+* 🔗 GitHub: [Library Management System](https://github.com/hariprasad20xx/task-tracker-app)
+
 ### 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=hariprasad20xx&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)
