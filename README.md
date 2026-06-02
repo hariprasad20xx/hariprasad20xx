@@ -53,7 +53,7 @@
 * Built using **Core Java & OOP principles**
 * Demonstrates modular design and clean code practices
 * Covers real-world use cases like issuing and returning books
-* 🔗 GitHub: [Library Management System](https://github.com/hariprasad20xx/task-tracker-app)
+* 🔗 GitHub: [Library Management System](https://github.com/hariprasad20xx/libray-management-system)
 
 ### 📈 GitHub Stats
 
